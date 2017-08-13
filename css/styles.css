@@ -1,1 +1,71 @@
 div
+ul {
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 2;
+    overflow: hidden;
+    background-color: #d1b3ff;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 12px 17px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #00cc66;}
+
+.me {
+  text-align: center;
+  color: blue;
+
+}
+.span1
+{
+  color: red;
+}
+.jumbotron
+{
+  margin-top: 20;
+padding: 20;
+background-color: #99ffff;
+
+
+}
+body
+{
+  margin-top: 0;
+  margin-bottom: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-color: #ffb84d;
+  background-color: #d6f5d6;
+  border-style: double;
+
+}
+.jumbotron1 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  color: inherit;
+  background-color: #eee;
+}
+.rick
+{
+  border-radius: 10px;
+  padding-top: 5;
+}
+.container
+{
+  background-color:  #cceeff;
+}
+dl{
+ list-style-type: circle;
+}
